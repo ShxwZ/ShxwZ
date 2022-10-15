@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/419932891020001281)
 <!--
 **ShxwZ/ShxwZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
