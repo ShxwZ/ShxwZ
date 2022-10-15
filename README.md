@@ -4,8 +4,8 @@
 .div1{
    align-items: center;
    justify-content: center;
-   display="flex"
-   width="100%"
+   display: flex;
+   width: 100%;
  }
 </style>
 <div class="div1">
