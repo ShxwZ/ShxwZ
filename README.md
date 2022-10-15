@@ -5,7 +5,7 @@
 <a/>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ" align="right" />   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ" align="left" />   
 <a/>
 <!--
 **ShxwZ/ShxwZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
