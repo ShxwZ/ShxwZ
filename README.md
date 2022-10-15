@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 ---
-<style> 
+<style type="text/css">
 .div1{
    align-items: center;
    justify-content: center;
