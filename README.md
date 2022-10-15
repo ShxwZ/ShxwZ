@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment...)](https://discord.com/users/419932891020001281)
+<a href="https://discord.com/users/419932891020001281">
+<img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />   
+<a/>
 <!--
 **ShxwZ/ShxwZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
