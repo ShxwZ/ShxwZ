@@ -19,6 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShxwZ" width="48%" align="right" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="48%"/>
 <div/>
-  <div>
-<img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=" align="center"/>   
-  <div/>
+   <br />
+ <p  align="center">
+    <img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=" />   
+ <p/>
