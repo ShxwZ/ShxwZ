@@ -39,13 +39,14 @@
 				}
 				
 			</style>
-
+			<div align="center">
 			<h1 class="wave">
 				👋              
 			</h1>
 			<h1 class="text">
 				Hey! Hello world :) 
 			</h1>
+			<div>
 		</div>
 	</foreignObject>
 </svg>
