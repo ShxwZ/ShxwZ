@@ -14,7 +14,7 @@
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/intellij-idea.svg" title="My favorite IDE :)"  alt="intellij" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p> <br />
-<p align="center">
+<p align="center"> 
   <img src="https://www.codewars.com/users/ShxwZ/badges/large" width="270px"/> 
 </p>
 <br />
