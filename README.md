@@ -17,6 +17,6 @@
  <br /> <br />
 <div>
 <img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=" align="right" width="48%"/>   
-<img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="48%"/>
 <div/>
 
