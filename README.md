@@ -1,4 +1,4 @@
-### Welcome to my profile 👋
+### Welcome to my profile <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
 ---
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
