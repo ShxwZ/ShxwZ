@@ -4,7 +4,7 @@
 <img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=" align="right"/>   
 <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="40%"/>
 <div/>
-<div margin-left="25%" width="50%">
+<p width="100%" text-align="center">
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -16,5 +16,5 @@
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/maven.svg" title="maven"  alt="maven" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/intellij-idea.svg" title="My favorite IDE :)"  alt="intellij" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</p>
  
