@@ -16,7 +16,7 @@
  
  <br /> <br />
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShxwZ" width="48%" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ&layout=compact" width="48%" align="right" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="48%"/>
 <div/>
    <br />
