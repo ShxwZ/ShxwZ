@@ -17,9 +17,10 @@
 <p align="center">
   <img src="https://www.codewars.com/users/ShxwZ/badges/large" width="270px"/> 
 </p>
- <br />
-<div>
 ---
+ <br />
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ&layout=compact" width="48%" align="right" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="48%" height="100%"/>
 <div/>
