@@ -13,9 +13,11 @@
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/maven.svg" title="maven"  alt="maven" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/intellij-idea.svg" title="My favorite IDE :)"  alt="intellij" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
+</p> <br />
+<p align="center">
+  <img src="https://www.codewars.com/users/ShxwZ/badges/large" /> 
 </p>
- 
- <br /> <br />
+ <br />
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ&layout=compact" width="48%" align="right" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="48%" height="100%"/>
