@@ -43,7 +43,7 @@
 				👋              
 			</h1>
 			<h1 class="text" align="center">
-				Hey! &#60;Hello world&#62; :) 
+				Hey! helloWorld(); :) 
 			</h1>
 		</div>
 	</foreignObject>
