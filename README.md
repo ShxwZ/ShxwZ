@@ -19,7 +19,7 @@
 </p>
 <br />
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ&layout=compact" width="45%" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ&layout=compact&theme=dark" width="45%" align="right" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=dark" width="45%" height="100%"/>
 <div/>
    <br />
