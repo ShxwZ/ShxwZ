@@ -1,6 +1,7 @@
 
-### <p align= "center"><img src="https://github.com/ShxwZ/ShxwZ/blob/main/wave.svg"/></p>
+###
 ---
+### <p align= "center"><img src="https://github.com/ShxwZ/ShxwZ/blob/main/wave.svg"/></p>
 ![](https://github.com/ShxwZ/ShxwZ/blob/main/banner.gif)
 ###
 ---
