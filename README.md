@@ -26,7 +26,6 @@
  <p  align="center">
     <img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=" />   
  <p/>
-  <br />
   <p align="center"> 
   <img src="https://www.codewars.com/users/ShxwZ/badges/large" width="270px"/> 
 </p>
