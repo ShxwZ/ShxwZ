@@ -1,7 +1,7 @@
 
 ### <p align= "center"><img src="https://github.com/ShxwZ/ShxwZ/blob/main/wave.svg"/></p>
 
----<img src = "https://github.com/ShxwZ/ShxwZ/blob/main/banner.gif">
+![](https://github.com/ShxwZ/ShxwZ/blob/main/banner.gif)
 
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
