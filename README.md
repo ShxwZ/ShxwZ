@@ -18,10 +18,6 @@
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/intellij-idea.svg" title="My favorite IDE :)"  alt="intellij" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p> <br />
-<p align="center"> 
-  <img src="https://www.codewars.com/users/ShxwZ/badges/large" width="270px"/> 
-</p>
-<br />
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxwZ&layout=compact&theme=react" width="45%" align="right" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShxwZ&show_icons=true&theme=react" width="45%" height="100%"/>
@@ -30,4 +26,9 @@
  <p  align="center">
     <img src="https://lanyard.cnrad.dev/api/419932891020001281/?hideTimestamp=true&idleMessage=" />   
  <p/>
+  <br />
+  <p align="center"> 
+  <img src="https://www.codewars.com/users/ShxwZ/badges/large" width="270px"/> 
+</p>
+
 
