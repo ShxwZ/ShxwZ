@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/mongodb-icon.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/maven.svg" title="maven"  alt="maven" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg" title="maven"  alt="maven" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/intellij-idea.svg" title="My favorite IDE :)"  alt="intellij" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p> <br />
