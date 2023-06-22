@@ -4,7 +4,8 @@
 ![](https://github.com/ShxwZ/ShxwZ/blob/main/banner.gif)
 ### 
 ---
-### <p align= "center">Programming Languages & Tools 🛠️</p>
+### <div align= "center"><p>Programming Languages & Tools🛠️</p><img src="https://github.com/ShxwZ/ShxwZ/assets/39011276/9c63da45-bc14-48ea-a316-a552b796fd45" width="180"/></div>
+
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
