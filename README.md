@@ -1,22 +1,23 @@
+# <p align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width="30"/> Welcome to my profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30"/></p>
 
-### <p align= "center"><img src="https://github.com/ShxwZ/ShxwZ/blob/main/wave.svg"/></p>
----
+
 ![](https://github.com/ShxwZ/ShxwZ/blob/main/banner.gif)
 ### 
----
-### <div align= "center"><p>Programming Languages & Tools🛠️</p><img src="https://github.com/ShxwZ/ShxwZ/assets/39011276/9c63da45-bc14-48ea-a316-a552b796fd45" width="180"/></div>
+
+## <div align= "center"><p>Programming Languages & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="30px" /></p><img src="https://github.com/ShxwZ/ShxwZ/assets/39011276/9c63da45-bc14-48ea-a316-a552b796fd45" width="180"/></div>
 
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/angular-icon.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg" title="maven"  alt="maven" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg" title="My favorite IDE :)"  alt="intellij" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="vscode" width="60" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p> <br />
   <p align="center"> 
