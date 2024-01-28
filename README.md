@@ -1,7 +1,7 @@
 # <p align= "center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width="30"/> <span>Welcome to my profile</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30"/></p>
 
 
-![](https://github.com/ShxwZ/ShxwZ/blob/main/banner.gif)
+![](https://github.com/ShxwZ/ShxwZ/blob/main/Animation.webp)
 ### 
 
 ## <div align= "center"><p>Programming Languages & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="30px" /></p><img src="https://github.com/ShxwZ/ShxwZ/assets/39011276/9c63da45-bc14-48ea-a316-a552b796fd45" width="180"/></div>
