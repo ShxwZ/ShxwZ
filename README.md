@@ -4,7 +4,7 @@
 ![](https://github.com/ShxwZ/ShxwZ/blob/main/Animation.webp)
 ### 
 
-## <div align= "center"><p>Programming Languages & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="30px" /></p><img src="https://github.com/ShxwZ/ShxwZ/assets/39011276/9c63da45-bc14-48ea-a316-a552b796fd45" width="180"/></div>
+## <div align= "center"><p>Programming Languages & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="30px" /></div>
 
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
