@@ -1,6 +1,5 @@
 # <p align= "center"> <span>Welcome to my profile</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Light%20Skin%20Tone.png" alt="Love-You Gesture Light Skin Tone" width="30" height="30" /></p>
 
-
 <p align="center"><a href="https://github.com/ShxwZ/portfolio-astro"> <img src="https://github.com/ShxwZ/ShxwZ/blob/main/Animation.webp"/></a></p>
 
 ### 
